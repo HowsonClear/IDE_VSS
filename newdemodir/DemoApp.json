@@ -1,0 +1,1 @@
+{"appname":"DemoApp","units":[{"pre":"","prepara":"","value":"","post":"pulseLight","postpara":"3"},{"pre":"getButtonStatus","prepara":"","value":"0","post":"button_light_led","postpara":""},{"pre":"","prepara":"","value":"","post":"buzzer_ring","postpara":"4"}]}

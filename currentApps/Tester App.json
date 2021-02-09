@@ -1,0 +1,1 @@
+{"appname":"Tester App","units":[{"pre":"","prepara":"","value":"","post":"buzzer_ring","postpara":"1"},{"pre":"Get_Soil_State","prepara":"","value":"1","post":"pulseLight","postpara":"2"},{"pre":"","prepara":"","value":"","post":"Get_Temperature_C","postpara":""},{"pre":"","prepara":"","value":"","post":"button_light_led","postpara":""}]}
